@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(241, 248, 180);
+}
+
+button{
+    background-color: rgb(48, 228, 48);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: arial;
+    font-style: bold;
+    border-radius: 10px;
+}
